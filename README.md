@@ -1,10 +1,10 @@
-# flutter_application_1
+# Sample Movie App
 
 A new Flutter project.
 
 ## Getting Started
 # Inshorts Job task
-Flutter assignment given by Educhamp.
+Flutter assignment given by Inshorts.
 It includes creation of a basic movie app using TMDB API.
 
 1. Home Page with Playing now movies and Trending movies
@@ -20,10 +20,6 @@ App follows MVVM and repository pattern.
 2. SQLite database for caching
 3. Consumer/Provider for state management
 
-
-### Components used from `react-navigation-tabs`. [Find Usage](./src/lib/router.js)
-1. createMaterialTopTabNavigator used for Navigator with tabs at the top
-
 ### Run
 1. Clone this repo 
 2. flutter pub get
@@ -33,10 +29,15 @@ App follows MVVM and repository pattern.
 
 Get API key [here](https://www.themoviedb.org/settings/api)
 ### Output
+# Search Screen
 ![alt text](./images/1.png "Screenshot")
+# Trending Screen
 ![alt text](./images/2.png "Screenshot")
+# Now Playing Screen
 ![alt text](./images/3.png "Screenshot")
+# Bookmark Screen
 ![alt text](./images/4.png "Screenshot")
+# Movie Detail Screen
 ![alt text](./images/5.png "Screenshot")
 
 ## Note :
